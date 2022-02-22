@@ -19,4 +19,4 @@ jobs:
       - uses: subosito/flutter-action@v1.5.1
         with:
           flutter-version: '2.10.2'
-          channel: 'stable
+          channel: 'stable'
