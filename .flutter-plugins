@@ -1,13 +1,13 @@
 # This is a generated file; do not edit or check into version control.
-audio_session=/opt/apps/google/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub%47/audio_session-0.1.6+1/
-flutter_sound=/opt/apps/google/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub%47/flutter_sound-9.1.3/
-flutter_sound_web=/opt/apps/google/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub%47/flutter_sound_web-9.1.3/
-just_audio=/opt/apps/google/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub%47/just_audio-0.9.20/
-just_audio_web=/opt/apps/google/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub%47/just_audio_web-0.4.4/
-path_provider=/opt/apps/google/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub%47/path_provider-2.0.9/
-path_provider_android=/opt/apps/google/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub%47/path_provider_android-2.0.11/
-path_provider_ios=/opt/apps/google/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub%47/path_provider_ios-2.0.7/
-path_provider_linux=/opt/apps/google/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub%47/path_provider_linux-2.1.5/
-path_provider_macos=/opt/apps/google/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub%47/path_provider_macos-2.0.5/
-path_provider_windows=/opt/apps/google/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub%47/path_provider_windows-2.0.5/
-permission_handler=/opt/apps/google/flutter/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%47dart-pub%47/permission_handler-6.1.3/
+audio_session=/Users/dolphin/.pub-cache/hosted/pub.dartlang.org/audio_session-0.1.6+1/
+flutter_sound=/Users/dolphin/.pub-cache/hosted/pub.dartlang.org/flutter_sound-9.1.3/
+flutter_sound_web=/Users/dolphin/.pub-cache/hosted/pub.dartlang.org/flutter_sound_web-9.1.3/
+just_audio=/Users/dolphin/.pub-cache/hosted/pub.dartlang.org/just_audio-0.9.20/
+just_audio_web=/Users/dolphin/.pub-cache/hosted/pub.dartlang.org/just_audio_web-0.4.4/
+path_provider=/Users/dolphin/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.9/
+path_provider_android=/Users/dolphin/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.11/
+path_provider_ios=/Users/dolphin/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.7/
+path_provider_linux=/Users/dolphin/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.5/
+path_provider_macos=/Users/dolphin/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.5/
+path_provider_windows=/Users/dolphin/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.5/
+permission_handler=/Users/dolphin/.pub-cache/hosted/pub.dartlang.org/permission_handler-6.1.3/
