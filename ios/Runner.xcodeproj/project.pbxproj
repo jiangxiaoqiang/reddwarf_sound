@@ -413,7 +413,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
-				DEVELOPMENT_TEAM = VC3TGXH668;
+				DEVELOPMENT_TEAM = 6JP4P88ZJB;
 				ENABLE_BITCODE = NO;
 				EXCLUDED_ARCHS = i386;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -437,7 +437,7 @@
 					"-lc++",
 					"-lstdc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.dooboolab.FlutterSoundDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = reddwarf.audio.player;
 				PRODUCT_NAME = "Flutter Sound Example";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -460,7 +460,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
-				DEVELOPMENT_TEAM = VC3TGXH668;
+				DEVELOPMENT_TEAM = 6JP4P88ZJB;
 				ENABLE_BITCODE = NO;
 				EXCLUDED_ARCHS = i386;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -484,7 +484,7 @@
 					"-lc++",
 					"-lstdc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.dooboolab.FlutterSoundDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = reddwarf.audio.player;
 				PRODUCT_NAME = "Flutter Sound Example";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
